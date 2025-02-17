@@ -1,0 +1,10 @@
+---
+layout: post
+title: SKILL
+---
+
+**Tools:** Proficient in Microsoft Office (Excel, Word, PowerPoint, Outlook,…), Canva 
+**Programing Language:** C/C++, Python, Java, Java Script, HTML/CSS, SQL
+**Language proficiency:** English, Vietnamese
+**Typing speed:** 50+
+
