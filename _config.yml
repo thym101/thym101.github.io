@@ -3,24 +3,24 @@ markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty    #clean URL
+permalink:        pretty    
 
 # Setup
-title:            'Resume'      #website's title
-tagline:          'Thy Mai'     #subtitle
-description:      'Computer Science student at Southern Illinois University Edwardsville'   #metadata about the site
-url:              https://thym101.github.io"      #url of the site
-baseurl:          /       #root directory?
+title:            'Resume'      
+tagline:          'Thy Mai'     
+description:      'Computer Science student at Southern Illinois University Edwardsville'   
+url:              http://hyde.getpoole.com      
+baseurl:          /       
 
 author:
   name:           'Thy Mai'
-  url:            www.linkedin.com/in/thy-mai-66838b291   #social media link
+  url:            www.linkedin.com/in/thy-mai-66838b291   
 
 
-paginate:         5   #Limits the number of posts per page
+paginate:         5  
 
 # Custom vars
 version:          2.1.0     
 
 github:
-  repo:           https://github.com/thym101/thym101.github.io   #github repo link
+  repo:           https://github.com/thym101/thym101.github.io   
