@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49ef0403.css",
+    "main.js": "/static/js/main.9f4f79fb.js",
+    "static/js/453.6dd3555e.chunk.js": "/static/js/453.6dd3555e.chunk.js",
+    "static/media/ehacks.png": "/static/media/ehacks.ee0bbca3bbcfed724024.png",
+    "static/media/deanlist.png": "/static/media/deanlist.e421f085feed5824d7b9.png",
+    "static/media/scholarship.png": "/static/media/scholarship.bc8845541328369913bd.png",
+    "static/media/avatar.jpg": "/static/media/avatar.69a1bd30456d5660b833.jpg",
+    "static/media/sprout_game.png": "/static/media/sprout_game.00ea86310f4ae8658f1c.png",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/blaze_blizzard.jpg": "/static/media/blaze_blizzard.92b9589e95fc0a5a14a2.jpg",
+    "index.html": "/index.html",
+    "main.49ef0403.css.map": "/static/css/main.49ef0403.css.map",
+    "main.9f4f79fb.js.map": "/static/js/main.9f4f79fb.js.map",
+    "453.6dd3555e.chunk.js.map": "/static/js/453.6dd3555e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ef0403.css",
+    "static/js/main.9f4f79fb.js"
+  ]
+}
