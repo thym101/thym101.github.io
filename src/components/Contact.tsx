@@ -5,7 +5,6 @@ import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import SendIcon from '@mui/icons-material/Send';
 import TextField from '@mui/material/TextField';
-
 function Contact() {
 
   const [name, setName] = useState<string>('');
@@ -24,29 +23,6 @@ function Contact() {
     setNameError(name === '');
     setEmailError(email === '');
     setMessageError(message === '');
-
-    /* Uncomment below if you want to enable the emailJS */
-
-    // if (name !== '' && email !== '' && message !== '') {
-    //   var templateParams = {
-    //     name: name,
-    //     email: email,
-    //     message: message
-    //   };
-
-    //   console.log(templateParams);
-    //   emailjs.send('service_id', 'template_id', templateParams, 'api_key').then(
-    //     (response) => {
-    //       console.log('SUCCESS!', response.status, response.text);
-    //     },
-    //     (error) => {
-    //       console.log('FAILED...', error);
-    //     },
-    //   );
-    //   setName('');
-    //   setEmail('');
-    //   setMessage('');
-    // }
   };
 
   return (

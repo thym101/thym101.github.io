@@ -8,58 +8,58 @@ import '../assets/styles/Timeline.scss'
 
 function Timeline() {
   return (
-    <div id="history">
+    <div id="experience">
       <div className="items-container">
-        <h1>Career History</h1>
+        <h1>Experience</h1>
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="8/2024 - present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Supplemental Instructor - Calculus</h3>
+            <h4 className="vertical-timeline-element-subtitle">Southern Illinois University Edwardsville</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Led peer-based Calculus 2 sessions at SIUE, aligning with course goals and supporting student learning.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="5/2024 - present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Computer Science Tutor</h3>
+            <h4 className="vertical-timeline-element-subtitle">Southern Illinois University Edwardsville</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Assist students with subjects like Calculus, Data Structures, and Programming Languages.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="05/2024 - 08/2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Cougar Connector</h3>
+            <h4 className="vertical-timeline-element-subtitle">Southern Illinois University Edwardsville</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Served as a Welcome Weekend leader at SIUE, assisting diverse students and ensuring a smooth, inclusive experience through trained customer service and event support.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="08/2022 - 09/2022"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">Volunteer Teaching Assistant</h3>
+            <h4 className="vertical-timeline-element-subtitle">Center for Inclusive Education Supporting of Children with Disabilities, Vietnam</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Volunteered at a Vietnamese center for children with disabilities, supporting inclusive education through classroom assistance, student engagement, and collaboration with staff.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

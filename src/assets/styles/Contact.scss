@@ -21,6 +21,10 @@
   fieldset {
     background-color: white;
   }
+
+  .contact-form .MuiInputBase-input { /* Target the input class */
+    color: black !important;
+  }
 }
 
 label {
@@ -32,6 +36,7 @@ label {
   display: flex;
   gap: 15px;
   padding-bottom: 15px;
+  color: black
 }
 
 .form-flex .MuiFormControl-root {
