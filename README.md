@@ -1,86 +1,61 @@
-# Developer Portfolio Template 🚀
+# Thy Mai Portfolio 🚀
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+## About me
+Thy Mai - SOUTHERN ILLINOIS UNIVERSITY EDWARDSVILLE (SIUE) – Edwardsville
+**Major**: Computer Science
+**GPA**: 4.0/4.0
+**Expected Graduation Year**: December 2026
+**Relevant Coursework**: MATH 150, MATH 152, MATH 250, MATH 224, CS 111, CS 140, CS 150, CS 286, CHEM 121A & 125A
+**Award**:
+• Dean’s List Spring 2023, Fall 2023, Spring 2024, Fall 2024
+• International GEO Scholarship ($38,000)
+• School of Engineer – Annual Honors Reception
+• eHacks Hackathon: 1st place
 
-## What is this?
+## Experience
 
-This simple portfolio template is designed to showcase your past projects, career history, skill sets, and more.
+**Supplemental Instructor – Calculus** (08/2024 - Present)
+*Southern Illinois University Edwardsville, Illinois*
++ Communicate effectively with faculty and students to align SI sessions with course objectives.
++ Foster a collaborative learning environment by encouraging peer discussions and problem-solving strategies.
++ Develop and implement engaging lesson plans, practice problems, and review materials tailored to student needs.
 
-View the [Demo](https://yujisatojr.github.io/react-portfolio-template/).
+**Computer Science and Math Tutor** (05/29/2024 - Current)
+*Southern Illinois University Edwardsville, Illinois*
++ Provide one-on-one and group tutoring sessions in Mathematics and Computer Science, supporting students from various academic
+backgrounds.
++ Assist students in understanding complex concepts, solving problems, and improving academic performance in subjects such as
+Calculus, Algebra, Data Structures, and Programming Languages (e.g., Python, Java, C++).
++ Collaborate with other tutors and staff to create an engaging learning environment and share best practices for effective tutoring.
 
-**This template is free to use, and no attribution is required.** You can fork or download this repository to customize it for your own use. Please don't forget to leave a ⭐ if you like this portfolio!
+**Cougar Connector - Welcome Weekend Leader SIUE** (05/2024 – Present)
+*Southern Illinois University Edwardsville, Illinois*
++ Equipped with extensive training in customer service techniques, ensuring professional interactions with incoming students
+throughout Welcome Weekend.
++ Proficient in working with a diverse range of students, including international, transfer, and first-year undergraduates, fostering an
+inclusive and welcoming atmosphere for all participants.
++ Adaptable and resourceful in handling various customer situations, from managing crowds to addressing inquiries and resolving
+conflicts, ensuring a smooth and enjoyable experience for all attendees during Welcome Weekend.
 
-![screenshot](./src/assets//images/screenshot.png)
+**Volunteer Teaching Assistant** (08/2022 – 09/2022)
+*Center for Inclusive Education Supporting of Children with Disabilities, Vietnam*
++ Worked with children at the age of 3 to 18 facing diverse challenges including autism, physical disabilities, down syndrome, and
+various needs.
++ Collaborated effectively with classroom teacher, school staff and offered teacher feedback about student’s behavior, progress, and
+specific needs.
++ Actively observed and provided support to children during class sessions, offering timely assistance, guidance, and encouragement
+to facilitate an inclusive learning atmosphere.
 
-## Features
+**Vo Van Kiet Highschool Library Assistant** (12/2020 - 05/2021)
+*Vo Van Kiet Highschool, Vietnam*
++ Organized, and shelved books to maintain an orderly and accessible library environment.
++ Managed front desk responsibilities, assisting students and faculty with library resources.
++ Collaborated with library team of 5 members including school staffs and student workers to enhance the efficiency of library
+operations.
 
-✅ Open source (free to use, no attribution required)  
-✅ Responsive design & mobile-friendly  
-✅ Supports both dark and light modes  
-✅ Highly customizable multi-component layout  
-✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS)  
+## Skills
 
-## Quick Setup
-
-1. Ensure you have [Node.js](https://nodejs.org/) installed. Check your installation by running:
-
-    ```bash
-    node -v
-    ```
-
-2. In the project directory, install dependencies:
-
-    ```bash
-    npm install
-    ```
-
-3. Start the development server:
-
-    ```bash
-    npm start
-    ```
-
-4. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
-
-5. Customize the template by navigating to the `/src/components` directory. Modify texts, pictures, and other information as needed.
-
-The page will reload if you make edits, and you will see any lint errors in the console.
-
-If you are interested in creating a mockup image like the ones from the personal projects section, I recommend [Genmoo](https://gemoo.com/tools/browser-mockup-generator/). This website lets you generate sleek looking browser mockups for free.
-
-## Deployment
-
-You can choose your preferred service (e.g., [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Heroku](https://www.heroku.com/)) for deployment. One of the easiest ways to host this portfolio is using GitHub Pages. Follow the instructions below for a production deploy.
-
-1. **Set Up GitHub Repository**
-
-    Create a new repository on GitHub for your portfolio app.
-
-2. **Configure `package.json`**
-
-    Edit the following properties in your `package.json` file:
-
-    ```json
-    {
-        "homepage": "https://yourusername.github.io/your-repo-name",
-        "scripts": {
-            "predeploy": "npm run build",
-            "deploy": "gh-pages -d build",
-            ...
-        }
-    }
-    ```
-
-    Replace `yourusername` with your GitHub username and `your-repo-name` with the name of your GitHub repository.
-
-3. **Deploy to GitHub Pages**
-
-    Run the following command to deploy your app:
-
-    ```bash
-    npm run deploy
-    ```
-
-4. **Access Your Deployed App**
-
-    After successfully deploying, you can access your app at `https://yourusername.github.io/your-repo-name`.
++ **Tools**: Proficient in Microsoft Office (Excel, Word, PowerPoint, Outlook,…), Canva
++ **Programing Language**: C/C++, Python, Java, Java Script, HTML/CSS, SQL
++ **Language proficiency**: English, Vietnamese
++ **Typing speed**: 50+
